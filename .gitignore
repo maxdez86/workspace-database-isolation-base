@@ -1,0 +1,28 @@
+# Node / TypeScript
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.eslintcache
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+.tmp/
+
+# Environments / secrets
+.env
+.env.*
+!.env.example
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# AI tool artifacts
+.codex
+.aider*
+.cursor/
