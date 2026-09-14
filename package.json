@@ -2,6 +2,7 @@
   "name": "ticketry",
   "version": "0.1.0",
   "private": true,
+  "license": "Apache-2.0",
   "description": "Multi-tenant helpdesk API and background workers on PostgreSQL.",
   "packageManager": "pnpm@9.12.1",
   "engines": {

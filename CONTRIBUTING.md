@@ -1,15 +1,11 @@
 # Contributing to Ticketry
 
-Ticketry is proprietary software owned by:
-
-```text
-MAXUEL GUIMARAES REIS CONSULTORIA EM TECNOLOGIA DA INFORMACAO
-CNPJ 42.781.389/0001-08
-```
-
-Contributions are accepted at the owner's discretion and remain subject to the
-terms in [LICENSE](LICENSE). Merging a contribution does not grant a license to
-the project.
+Ticketry is licensed under the Apache License, Version 2.0. Unless explicitly
+stated otherwise, any contribution intentionally submitted for inclusion in
+the project is licensed under the same terms, without additional conditions.
+A separate contribution agreement, when one exists, continues to govern the
+contribution. See [LICENSE](LICENSE), [NOTICE](NOTICE), and
+[PROVENANCE.md](PROVENANCE.md).
 
 ## Before making a change
 

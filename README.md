@@ -15,10 +15,10 @@ scheduler ──────▶ apps/worker┘
 
 ## Ownership and license
 
-Ticketry is proprietary software owned by MAXUEL GUIMARAES REIS CONSULTORIA EM
-TECNOLOGIA DA INFORMACAO (CNPJ 42.781.389/0001-08). Maxuel Guimarães Reis is the
-original author. See [LICENSE](LICENSE) for the complete terms and
-[CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
+Copyright 2026 Maxuel Guimarães Reis. Ticketry is licensed under the Apache
+License, Version 2.0. See [LICENSE](LICENSE), [NOTICE](NOTICE), and
+[PROVENANCE.md](PROVENANCE.md) for the complete licensing and provenance
+information, and [CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
 
 ## Workspaces
 
